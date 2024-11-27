@@ -1,5 +1,5 @@
 # DATA Club - Cartoon Image Classification Project with Fine Tuning!
-## Group members: Colin Chu, Le Fan Fang, Yuandi Tang, Rongjia Sun, Andre Barle
+## Colin Chu, Le Fan Fang, Yuandi Tang, Rongjia Sun, Andre Barle
 This project will focus on image classification using machine learning and computer vision techniques. Specifically, it will involve developing a classifier to identify characters from the “Tom and Jerry” cartoon series. The dataset includes images of Tom, Jerry, and other characters, providing an opportunity to explore CNNs (Convolutional Neural Networks) and advanced image processing methods.
 The objective of this project is to build a robust image classification model that can accurately identify characters from “Tom and Jerry” images. This will be an excellent use case for convolutional neural networks (CNNs), which are highly effective in image recognition tasks. The model’s performance will be evaluated based on its accuracy, precision, and ability to generalize across unsetest images.en test images.
 
